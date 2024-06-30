@@ -1,4 +1,19 @@
-# -DeepReinforcementLearningProject(Competition)-
-This Deep Reinforcement Learning Project was prepared by 1) Lang Kah Chun 2) Yee Qing Wei 3) Sun Qi Yang. The objective of this report is to train a smart agent to play Atari Breakout-V5 game and conduct a comparative analysis of different algorithm used in DeepRL.
+# Deep Reinforcement Learning Project (Competition)
 
-Alongside, we have succesfully implemented Rainbow algorithm refering to https://github.com/Kaixhin/Rainbow and use the trained agent to compete in class competition environment https://github.com/SimKuanGOH/ATARI-Pong-Competiton-Environment for Atari Pong game.
+This Deep Reinforcement Learning Project was prepared by:
+1. Lang Kah Chun
+2. Yee Qing Wei
+3. Sun Qi Yang
+
+## Final Project
+
+The objective of this final project is to train a smart agent to play the Atari Breakout-V5 game and conduct a comparative analysis of different algorithms used in Deep Reinforcement Learning (DeepRL).
+
+## Competition
+
+- **Rainbow Algorithm**: We successfully implemented the Rainbow algorithm by referring to [this repository](https://github.com/Kaixhin/Rainbow).
+- **Class Competition**: We used the trained agent to compete in a class competition environment for the Atari Pong game, as detailed in [this repository](https://github.com/SimKuanGOH/ATARI-Pong-Competiton-Environment).
+
+## Summary
+
+This project demonstrates the application of advanced Deep Reinforcement Learning techniques to train agents capable of playing classic Atari games and reviews the performance of each individual algorithm's strengths and weaknesses through comparative analysis.
